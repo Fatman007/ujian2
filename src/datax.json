@@ -1,0 +1,43 @@
+[ 
+    {
+        "id" : 0,
+        "name" : "Road Racer",
+        "penjelasan" : "Sebuah mainan puzzle 3d unik yang terinspirasi dari bentuk mobil balap, cocok dimainkan oleh anak-anak untuk membantu perkembangan saraf motorik.",
+        "harga" : "Rp 159.000",
+        "banyakkomponen" : 93,
+        "berat" : "250 gram",
+        "dimensi" : "37 x 21 x 8.7",
+        "logo1" : "./images/2.png",
+        "logo2" : "./images/3.png",
+        "logo3" : "./images/4.png"
+        
+    },
+
+    {
+        "id" : 1,
+        "name" : "Sky Commander",
+        "penjelasan" : "Sebuah mainan puzzle 3d unik yang terinspirasi dari bentuk pesawat, cocok dimainkan oleh anak-anak untuk membantu perkembangan saraf motorik.",
+        "harga" : "Rp 139.000",
+        "banyakkomponen" : 54,
+        "berat" : "200 gram",
+        "dimensi" : "37 x 21 x 8.7",
+        "logo1" : "./images/atas.png",
+        "logo2" : "./images/belakang2.png",
+        "logo3" : "./images/perspektif.png"
+        
+    },
+
+    {
+        "id" : 2,
+        "name" : "Multiform Modules",
+        "penjelasan" : "Nantikan deskripsinya",
+        "harga" : "0",
+        "banyakkomponen" : 0,
+        "berat" : "Nantikan deskripsinya",
+        "dimensi" : "Nantikan deskripsinya",
+        "logo1" : "./images/block_2x.jpg",
+        "logo2" : "./images/block_3.jpg",
+        "logo3" : "./images/block_4.jpg"
+        
+    }
+]

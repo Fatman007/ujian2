@@ -1,0 +1,16 @@
+[ 
+
+    {
+        "id" : 2,
+        "name" : "MULTIFORM MODULES",
+        "penjelasan" : "Nantikan deskripsinya",
+        "harga" : "0",
+        "banyakkomponen" : 0,
+        "berat" : "Nantikan deskripsinya",
+        "dimensi" : "Nantikan deskripsinya",
+        "logo1" : "/assets/img/block_2x.jpg",
+        "logo2" : "/assets/img/block_3.jpg",
+        "logo3" : "/assets/img/block_4.jpg"
+        
+    }
+]

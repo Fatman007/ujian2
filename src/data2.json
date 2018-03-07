@@ -1,0 +1,15 @@
+[ 
+    {
+        "id" : 1,
+        "name" : "SKY COMMANDER",
+        "penjelasan" : "Sebuah mainan puzzle 3d unik yang terinspirasi dari bentuk pesawat, cocok dimainkan oleh anak-anak untuk membantu perkembangan saraf motorik.",
+        "harga" : "Rp 139.000",
+        "banyakkomponen" : 54,
+        "berat" : "200 gram",
+        "dimensi" : "37 x 21 x 8.7",
+        "logo1" : "/assets/img/atas.png",
+        "logo2" : "/assets/img/belakang2.png",
+        "logo3" : "/assets/img/perspektif.png"
+        
+    }
+]

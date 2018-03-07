@@ -1,0 +1,15 @@
+[ 
+    {
+        "id" : 0,
+        "name" : "ROAD RACER",
+        "penjelasan" : "Sebuah mainan puzzle 3d unik yang terinspirasi dari bentuk mobil balap, cocok dimainkan oleh anak-anak untuk membantu perkembangan saraf motorik.",
+        "harga" : "Rp 159.000",
+        "banyakkomponen" : 93,
+        "berat" : "250 gram",
+        "dimensi" : "37 x 21 x 8.7",
+        "logo1" : "/assets/img/2.png",
+        "logo2" : "/assets/img/3.png",
+        "logo3" : "/assets/img/4.png"
+        
+    }
+]
